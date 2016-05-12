@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<burn_down_data>
+  <developer>
+    <name>SpongeBob SquarePants</name>
+    <sprint week="1">
+      <task>
+        <name>User can register to web site</name>
+        <burned_points>5</burned_points>
+      </task>
+      <task>
+        <name>User can upload profile photo</name>
+        <burned_points>3</burned_points>
+      </task>
+    </sprint>
+    <sprint week="2">
+      <task>
+        <name>Administrator can enable/disable users</name>
+        <burned_points>4</burned_points>
+      </task>
+      <task>
+        <name>User can change email address</name>
+        <burned_points>6</burned_points>
+      </task>
+      <task>
+        <name>Application sends email change validation link</name>
+        <burned_points>2</burned_points>
+      </task>
+    </sprint>
+    <sprint week="3">
+      <task>
+        <name>Appliction sends email reminder to users who haven't logged in for awhile</name>
+        <burned_points>7</burned_points>
+      </task>
+    </sprint>
+  </developer>
+  <developer>
+    <name>Patrick Star</name>
+    <sprint week="1">
+      <task>
+        <name>User can login</name>
+        <burned_points>1</burned_points>
+      </task>
+      <task>
+        <name>User can change password</name>
+        <burned_points>8</burned_points>
+      </task>
+    </sprint>
+    <sprint week="2">
+      <task>
+        <name>User can logout</name>
+        <burned_points>1</burned_points>
+      </task>
+      <task>
+        <name>User must change password after initial login</name>
+        <burned_points>3</burned_points>
+      </task>
+    </sprint>
+    <sprint week="3">
+      <task>
+        <name>User can pay with paypal at shopping cart</name>
+        <burned_points>9</burned_points>
+      </task>
+    </sprint>    
+  </developer>
+  <developer>
+    <name>Squidward Tentacles</name>
+    <sprint week="1">
+      <task>
+        <name>Application validates shopping cart items availability</name>
+        <burned_points>8</burned_points>
+      </task>
+    </sprint>
+    <sprint week="2">
+      <task>
+        <name>User can see recommended products/services</name>
+        <burned_points>4</burned_points>
+      </task>
+      <task>
+        <name>User can enter credit card info</name>
+        <burned_points>3</burned_points>
+      </task>
+    </sprint>
+  </developer>
+</burn_down_data>
